@@ -3,7 +3,7 @@
 ## Description
 A system that uses facial recognition technologies to register and identify students. This project involves using advanced cameras and facial recognition software to analyze facial features and store them in a database. This system can be used in schools and universities to record student attendance and verify their identity quickly and effectively. It can also be used in other organizations that need an accurate and reliable attendance recording system
 
-## :bulb: Working
+## :bulb: Simple Description
 
 ### Sign up for a Twitter Developer Account
 * A login page through which the professor or administration enters .
