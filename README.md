@@ -29,3 +29,7 @@ A system that uses facial recognition technologies to register and identify stud
 <p align="center"><img src="https://github.com/mojtaba-almayhay/Recording-students-attendance-through-the-face/blob/main/screens/Screen6.jpg" width="700" height="400"></p>
 
 <p align="center"><img src="https://github.com/mojtaba-almayhay/Recording-students-attendance-through-the-face/blob/main/screens/Screen7.jpg" width="700" height="400"></p>
+
+## :handshake: To Get Him
+email : mojtabamayhay@gmail.com
+insta or tele in >> knk_1k
