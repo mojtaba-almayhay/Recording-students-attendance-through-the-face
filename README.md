@@ -5,7 +5,7 @@ A system that uses facial recognition technologies to register and identify stud
 
 ## :bulb: Simple Description
 
-### Sign up for a Twitter Developer Account
+### The little part
 * A login page through which the professor or administration enters .
 * The admin page can be used to add a professor, modify his data, or delete it .
 * The professor’s page, through which it is possible to add a student, delete or record attendance for students, with a system that determines the late time and date of the lecture, with the presence of a record in which students are recorded as late and absent, and choosing the lecture date, which facilitates the search process.
@@ -32,4 +32,5 @@ A system that uses facial recognition technologies to register and identify stud
 
 ## :handshake: To Get Him
 email : mojtabamayhay@gmail.com
+## 
 insta or tele in >> knk_1k
