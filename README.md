@@ -1,5 +1,11 @@
 # Recording-students-attendance-through-the-face
-A system that uses facial recognition technologies to register and identify students. This project involves facial recognition software to analyze facial features and store them in a database
+
+## Description
+A system that uses facial recognition technologies to register and identify students. This project involves using advanced cameras and facial recognition software to analyze facial features and store them in a database. This system can be used in schools and universities to record student attendance and verify their identity quickly and effectively. It can also be used in other organizations that need an accurate and reliable attendance recording system
+
+
+
+
 
 <p align="center"><img src="https://github.com/mojtaba-almayhay/Recording-students-attendance-through-the-face/blob/main/screens/Screen8.jpg" width="700" height="400"></p>
 
