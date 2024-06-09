@@ -32,5 +32,5 @@ A system that uses facial recognition technologies to register and identify stud
 
 ## :handshake: To Get Him
 email : mojtabamayhay@gmail.com
-## \ [insta](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset) or [tele](https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset) in >> knk_1k
+##  [insta](https://www.instagram.com/knk_1k) or [tele](https://t.me/knk_1k) in >> knk_1k
 
