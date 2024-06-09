@@ -6,19 +6,13 @@ A system that uses facial recognition technologies to register and identify stud
 ## :bulb: Working
 
 ### Sign up for a Twitter Developer Account
-* Create a separate Twitter account for your bot.
-* Sign up for Twitter Developer Account from this site - [Apply for a Twitter Developer Account](https://developer.twitter.com/en/apply-for-access)
-* Enter the necessary fields and await for email confirmation.
-* Click on [Create an app](https://developer.twitter.com/en/apps)
-* Enter the details and keep safe the access tokens generated.
+* A login page through which the professor or administration enters .
+* The admin page can be used to add a professor, modify his data, or delete it .
+* The professor’s page, through which it is possible to add a student, delete or record attendance for students, with a system that determines the late time and date of the lecture, with the presence of a record in which students are recorded as late and absent, and choosing the lecture date, which facilitates the search process.
+* Student page: The student can find out his absences through a web page programmed in PHP .
 
-## :key: Deployment
 
-* Sign up for a free account in [Heroku](heroku.com)
-* Click on New -> Create new app
-* Enter the app-name in lower case and select your nearest region.
-* Choose Heroku CLI for deployment. Follow the steps given in Deploy tab.
-* Once the build is successful enable the Free Dynos option from Overview tab.
+## :key: Page app
 
 <p align="center"><img src="https://github.com/mojtaba-almayhay/Recording-students-attendance-through-the-face/blob/main/screens/Screen8.jpg" width="700" height="400"></p>
 
